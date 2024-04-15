@@ -1,5 +1,5 @@
 {
-    "id": "im.dino.Dino",
+    "id": "im.dino.Dino.other",
     "runtime": "org.gnome.Platform",
     "runtime-version": "44",
     "sdk": "org.gnome.Sdk",
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "name": "dino",
+            "name": "dino.other",
             "buildsystem": "cmake-ninja",
             "builddir": true,
             "config-opts": [
